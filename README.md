@@ -1,3 +1,11 @@
+# Measure
+
+## Demo
+
+https://thor-com-se.github.io/measure/
+
+## Description
+
 Developing mobile applications that use sensors not found in laptops or desktops can be difficult. To aid in the development of mobile applications that depend on gyroscopes and accelerometers, this web application provides sensors readings and tools to measure these data.
 
 The data describes orientation and acceleration of the device, which can be filtered for readability through toggles. The tools allow users to save steps or scores of sensor values, enabling measurements to be taken when looking at the device is not possible or practical. The recording function is intended for acceleration values, as acceleration is best represented as a scale between static and in-motion states.
