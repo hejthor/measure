@@ -4,7 +4,7 @@
 
 This link should be opened on a mobile device, as it uses mobile device sensors.
 
-https://thor-com-se.github.io/measure/
+https://hejthor.github.io/measure/
 
 ## Description
 
